@@ -19,6 +19,7 @@ ms.author: "wiwagn"
   
 ```csharp
 #region MyClass definition  
+// your code between #region and #endregion
 public class MyClass   
 {  
     static void Main()   
